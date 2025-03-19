@@ -59,10 +59,10 @@ El repositorio contiene los siguientes archivos y carpetas:
   - `team-t-08_Pipelines_II.ipynb`: Notebook con el código comentado para cargar el modelo entrenado desde `/src/models`, realizar predicciones sobre `team-t-08_test.csv` y calcula las métricas de evaluación.
 
 - **`src/models/`**: Carpeta para almacenar los modelos entrenados.
-- **`src/notebooks/`** (Opcional): Carpeta para almacenar notebooks de pruebas.
-- **`src/utils/`** (Opcional): Carpeta para almacenar librerías o funciones auxiliares utilizadas en el proyecto.
-- **`requirements.txt`** (Opcional): Archivo que contiene todas las dependencias necesarias para ejecutar el proyecto.
-- **`.gitignore`** (Opcional): Archivo que indica qué ficheros no deben subirse al repositorio.
+- **`src/notebooks/`**: Carpeta para almacenar notebooks de pruebas.
+- **`src/utils/`**: Carpeta para almacenar librerías o funciones auxiliares utilizadas en el proyecto.
+- **`requirements.txt`**: Archivo que contiene todas las dependencias necesarias para ejecutar el proyecto.
+- **`.gitignore`**: Archivo que indica qué ficheros no deben subirse al repositorio.
 
 ## Instalación
 Si deseas configurar el proyecto en tu máquina local, sigue estos pasos:
